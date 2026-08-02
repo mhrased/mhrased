@@ -16,7 +16,6 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/📍_Dhaka,_Bangladesh-1F2937?style=flat-square" alt="Location"/>
-<img src="https://img.shields.io/badge/💼_Open_to_Remote_·_Relocation-059669?style=flat-square" alt="Open to work"/>
 
 </div>
 
